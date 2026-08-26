@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Building+autonomous+agents;Currently+remote+at+bizAmica)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Building+autonomous+agents;Currently+Intern+at+bizAmica)
 
 </div>
 
