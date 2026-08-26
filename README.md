@@ -1,101 +1,45 @@
-# 👋 Hey, I'm Krish Lodha
+# Hey, I'm Krish 👋
 
-🎓 B.Tech in **Artificial Intelligence & Data Science**  
-📍 Pune, India  
-💡 Full-Stack Developer | AI & ML Engineer | GenAI Builder  
+AI & Data Science student (MIT WPU, Pune) and Software Intern at **bizAmica**, working fully remote since July 2026.
 
-I love building **intelligent systems** that actually solve problems — from AI-powered dashboards and NLP systems to full-stack products with clean UX and scalable backends.
+I like taking things people do by hand — sifting through documents, routing tickets, digging through notes — and building systems that just do it for them. That's the thread through everything below: not "AI projects" for the sake of it, but automation that removes real manual work.
 
-I enjoy experimenting with **Machine Learning, Deep Learning, NLP, and GenAI**, and turning ideas into real, deployable applications.
+Currently looking for remote roles where I can keep doing exactly that.
 
 ---
 
-## 🚀 What I’m Currently Working On
-- 🧠 AI-powered data analysis & automation tools  
-- 🔍 NLP & RAG-based applications  
-- 📊 ML dashboards with real-time insights  
-- 🌐 Full-stack apps using **React + FastAPI**
+## 🔧 What I'm building right now
+
+**StepRoute** — a research project on step-level model routing for tool-using agents, scoped specifically to SRE/incident investigation. Most routing work picks one model per task; I'm looking at routing *per step* within an agent's tool-use trajectory, using MCP tool-schema metadata as a routing signal, and building a live evaluation setup instead of relying on static replays (which don't capture how agents actually drift in production). Early-stage, still scoping — not claiming it's done.
+
+**Second Brain — Autonomous Sync & Cross-Reference Layer** — an AI knowledge agent that started as a straightforward RAG pipeline (PDF ingestion → OCR → chunking → embeddings → semantic search with citations) and is turning into something more agentic: it auto-syncs with Google Drive, classifies incoming documents as NEW / DUPLICATE / UPDATE / CONTRADICTION against what's already indexed, and pushes a daily digest — kept out of the vector store on purpose, so it doesn't pollute retrieval. Built on Postgres + pgvector rather than a dedicated vector DB, deliberately, to keep the infra footprint small.
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-krish--lodha-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/krish-lodha-6b2b06343)
-[![Instagram](https://img.shields.io/badge/Instagram-krishlodha__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/krishlodha_)
-[![Email](https://img.shields.io/badge/Email-lodhakrish11@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lodhakrish11@gmail.com)
+## 🧠 Skills
+
+**AI/ML** — classification, regression, forecasting, CNNs/ANNs (TensorFlow, Keras), NLP, embeddings, RAG pipelines, agentic systems, model evaluation
+
+**Backend** — Python, FastAPI, Flask, Django, REST APIs & auth, database design
+
+**Frontend** — React, Vite, Tailwind, Streamlit
+
+**Data** — PostgreSQL (pgvector), MySQL, MongoDB, SQLite, Power BI
+
+**Other** — Git/GitHub Actions, Postman, basic cloud/deployment (Vercel, Netlify)
 
 ---
 
-## 🧠 Core Skills & Expertise
+## 🚀 Other things I've shipped
 
-### 🤖 Artificial Intelligence & Machine Learning
-- Machine Learning (Regression, Classification, Forecasting)
-- Deep Learning (ANNs, CNNs, Keras, TensorFlow)
-- NLP (Text Classification, Embeddings, RAG, Chatbots)
-- Data Analysis & Visualization
-- Model Evaluation & Feature Engineering
-
-### 🛠️ Backend Development
-- Python, FastAPI, Flask, Django
-- REST APIs & Authentication
-- Database Design & Optimization
-- AI Model Integration in Production
-
-### 🎨 Frontend Development
-- React.js, Vite
-- Tailwind CSS, CSS3
-- Streamlit Dashboards
-- EJS, Responsive UI Design
-
-### 🗄️ Databases & Cloud
-- MySQL, PostgreSQL, MongoDB, SQLite
-- Microsoft SQL Server
-- Deployment on Vercel & Netlify
-- Basic OpenStack & Cloud Concepts
-
-### 🧰 Tools & Platforms
-- Git & GitHub (Actions, CI/CD)
-- Postman
-- Power BI
-- Canva
-- Kaggle
-- VS Code
+- **AutoEDA** — one-click exploratory data analysis: point it at a dataset, get visual summaries and ML-ready insights back, no manual notebook wrangling.
+- **AgroTech** — full-stack platform giving farmers fertilizer and soil-health guidance from crop data, with a live analytics dashboard. [Live demo →](https://agro-tech-roan.vercel.app/dashboard)
 
 ---
 
-## 🧩 Featured Projects
-🔹 **AgroTech – Smart Agriculture Platform**  
-AI-driven crop recommendations, analytics dashboard, and full-stack deployment  
-🔗 https://agro-tech-roan.vercel.app/dashboard  
+## 📫 Reach me
 
-🔹 **Academic Assistant (GenAI)**  
-RAG-based assistant for college notes using embeddings & vector search  
+- Email: lodhakrish11@gmail.com
+- LinkedIn: [krish-lodha](https://linkedin.com/in/krish-lodha-6b2b06343)
 
-🔹 **AI Inventory & Sales Forecasting System**  
-Demand forecasting, stock prediction, and analytics dashboards  
-
-🔹 **PlaylistPilot (GenAI)**  
-AI-powered playlist generation using NLP & user preferences  
-
-🔹 **Automated EDA Tool**  
-One-click data analysis with visual insights and ML summaries  
-
----
-
-## 📊 GitHub Stats
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krish1342&theme=cobalt&show_icons=true&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Krish1342&theme=cobalt)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish1342&layout=compact&theme=cobalt)
-
----
-
-## 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=Krish1342&theme=radical&no-frame=false&margin-w=8)
-
----
-
-## 👀 Profile Visits
-![Profile Views](https://visitcount.itsvg.in/api?id=Krish1342&icon=0&color=0)
-
----
-
-⭐ *Always curious. Always building. Always learning.*
+Open to remote AI/ML and backend roles — happy to walk through the architecture on any of the above if you're curious.
