@@ -1,3 +1,9 @@
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Building+autonomous+agents;Currently+remote+at+bizAmica)
+
+</div>
+
 # Hey, I'm Krish 👋
 
 AI & Data Science student (MIT WPU, Pune) and Software Intern at **bizAmica**, working fully remote since July 2026.
@@ -17,6 +23,8 @@ Currently looking for remote roles where I can keep doing exactly that.
 ---
 
 ## 🧠 Skills
+
+![My Skills](https://skillicons.dev/icons?i=python,fastapi,react,tailwind,postgres,mongodb,tensorflow,git,vercel,vscode)
 
 **AI/ML** — classification, regression, forecasting, CNNs/ANNs (TensorFlow, Keras), NLP, embeddings, RAG pipelines, agentic systems, model evaluation
 
